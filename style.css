@@ -46,4 +46,12 @@ footer {
 
 button:hover {
   background-color: #7dd3fc;
+}@media (max-width: 600px) {
+  body {
+    padding: 32px 20px;
+  }
+
+  h1 {
+    font-size: 30px;
+  }
 }
